@@ -30,8 +30,7 @@ export const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Necessitatibus officia maxime expedita sint
+          I am a dedicated Computer Science student with expertise in software engineering and experience in educational counseling, poised to contribute to innovative projects at the Apple Developer Academy.
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-600 via-purple-600 to-pink-600 hover:bg-slate-500 text-black">
