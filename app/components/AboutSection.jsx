@@ -92,7 +92,7 @@ export const AboutSection = () => {
             impactful projects, including winning the Favorite Winner award at
             the Hackathon x Microsoft AI for Accessibility 2024. I am passionate
             about using AI and software to solve real-world challenges and
-            improve people's lives. As a Mentor at Binus University, I assist
+            improve people lives. As a Mentor at Binus University, I assist
             students in navigating their academic journey, sharing my knowledge
             and fostering growth in others.
             <br />

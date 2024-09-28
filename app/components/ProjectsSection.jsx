@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCard";
 const projectsData = [
   {
     id: 1,
-    title: "Fanes Liu's Portfolio Website",
+    title: "Fanes Liu Portfolio Website",
     description: "This portfolio website highlights my web development and software engineering projects, built using React.js and Next.js for optimal performance and responsive design. The site features a dynamic project gallery with hover effects, integrated links to source code and live demos, and optimized images that maintain proper aspect ratio. With interactive icons designed using Heroicons and Flexbox, the website provides a seamless, user-friendly experience across all devices.",
     image: "/images/project/2.png",
     tag: ["All", "Web"],
@@ -23,7 +23,7 @@ const projectsData = [
   {
     id: 3,
     title: "Jokeys converence center",
-    description: "The JCC website build using HTML, CSS, Java-Scrip is like a digital brochure for the conference center, presenting details about its services, upcoming events, prices, and background information in an easy-to-navigate format. It's designed to look good and work well on computers and phones, and it ensures that when people fill out forms to get in touch, they're doing it correctly.",
+    description: "The JCC website build using HTML, CSS, Java-Scrip is like a digital brochure for the conference center, presenting details about its services, upcoming events, prices, and background information in an easy-to-navigate format. It is designed to look good and work well on computers and phones, and it ensures that when people fill out forms to get in touch, they are doing it correctly.",
     image: "/images/project/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/fanesliu/Jokeys-Conference-Center.git",
@@ -32,7 +32,7 @@ const projectsData = [
   {
     id: 4,
     title: "Pooch Gourmet Dog Nutrition",
-    description: "Pooch Gourmet is a website dedicated to dog nutrition. Owners can enter their dog's age to receive tailored health and nutrition advice. The site features a calorie calculator to determine the appropriate caloric intake for each dog. Additionally, PostGarment sells dog food that supports their nutritional needs. The site also includes a detailed dog profile feature and an About Us section explaining our mission and team.",
+    description: "Pooch Gourmet is a website dedicated to dog nutrition. Owners can enter their dogs age to receive tailored health and nutrition advice. The site features a calorie calculator to determine the appropriate caloric intake for each dog. Additionally, PostGarment sells dog food that supports their nutritional needs. The site also includes a detailed dog profile feature and an About Us section explaining our mission and team.",
     image: "/images/project/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://www.figma.com/proto/4dtMGvV4tw1oHaaanM5RZL/PoochGourmet?node-id=59-533&node-type=canvas&t=S9wfXHFvjoszn2NC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=59%3A533",

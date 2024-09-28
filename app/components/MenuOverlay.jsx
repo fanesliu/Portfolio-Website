@@ -13,3 +13,4 @@ export const MenuOverlay = ({ links }) => {
     </ul>
   );
 };
+export default MenuOverlay;

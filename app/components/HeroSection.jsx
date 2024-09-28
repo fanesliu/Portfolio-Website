@@ -50,7 +50,7 @@ export const HeroSection = () => {
         </div>
         <div className="col-span-5 place-self-center mt-4 lg:mt-0">
           <div className="rounded-full bg-[#080808] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative flex justify-center items-center">
-            <img
+            <Image
               src="/images/porto_img.png"
               alt="porto image"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
