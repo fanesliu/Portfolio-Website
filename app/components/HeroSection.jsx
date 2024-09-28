@@ -30,9 +30,9 @@ export const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I am a dedicated Computer Science student with expertise in software
-            engineering and experience in educational counseling, poised to
-            contribute to innovative projects at the Apple Developer Academy.
+           I am a dedicated Computer Science student with expertise in software engineering
+           and experience in educational counseling, ready to contribute to innovative projects 
+           and collaborate in dynamic teams to drive impactful solutions
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-600 via-purple-600 to-pink-600 hover:bg-slate-500 text-black">
@@ -40,8 +40,7 @@ export const HeroSection = () => {
             </button>
             <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from from-blue-500 via-purple-600 to-pink-600 hover:bg-slate-800 text-white mt-3">
               <a
-                href="https://drive.google.com/uc?export=download&id=10jab-vofmW-oJcVR26NiHrxsBwX9m7wo
-"
+                href="https://drive.google.com/uc?export=download&id=1ccMvLF6CNtYS-tttWnGZUXH0yBuKmJPA"
                 className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2"
               >
                 Download CV
