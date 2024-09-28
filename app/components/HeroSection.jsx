@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
-
+import Image from "next/image";
 export const HeroSection = () => {
   return (
     <section>
