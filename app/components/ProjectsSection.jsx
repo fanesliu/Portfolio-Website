@@ -44,8 +44,8 @@ const projectsData = [
     description: "This website was created as part of the TF-SCALE program with MSD, undertaken by our group to raise awareness and accessibility of the HPV vaccine among women in Singapore. The site offers information on the importance of the HPV vaccine, affordable pricing, and incentives such as grocery vouchers to encourage more women to get vaccinated. Additionally, the site provides user testimonials and a FAQ section to address common questions about the HPV vaccine.",
     image: "/images/project/5.png",
     tag: ["All", "Web"],
-    gitUrl: "https://www.figma.com/proto/jX0iegMvKEAuNlO0vel85U?node-id=0-1&t=gSKh1SNjO8CSb4Sg-6",
-    previewUrl: "https://www.figma.com/proto/jX0iegMvKEAuNlO0vel85U?node-id=0-1&t=gSKh1SNjO8CSb4Sg-6",
+    gitUrl: "https://www.figma.com/proto/FbCeZF3MvmGiu0pHAYHJOF/HPV-Web-Prog?node-id=1-1934&node-type=canvas&t=pymGOj5xLFzpBe3I-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1",
+    previewUrl: "https://www.figma.com/proto/FbCeZF3MvmGiu0pHAYHJOF/HPV-Web-Prog?node-id=1-1934&node-type=canvas&t=pymGOj5xLFzpBe3I-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1",
   },
   {
     id: 6,
